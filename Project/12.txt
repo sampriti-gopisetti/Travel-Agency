@@ -1,0 +1,26 @@
+GoTo...UrAdvisor
+Enjoy our services
+
+Thank you for choosing our services : )
+
+Welcome to Karnataka
+"One state Many Worlds"
+
+Passenger name : abc edf
+
+Travel date : 23/4/2023
+
+Chennai to Bangalore
+Mode : Train
+
+Total Number of passengers : 10
+
+Number of Adults(18 + ) : 3
+Number of Children(3 to 18) : 3
+Number of Adults(under 3) : 4
+
+Total bill = 3543.75
+Payment Done
+Payment Method : Card - 1236 XXXX XXXX 5141
+
+Have a Wonderful Safe Journey!!
